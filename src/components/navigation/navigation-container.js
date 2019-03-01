@@ -36,7 +36,7 @@ export default class NavigationComponent extends Component {
         </div>
 
         <div className="right-side">BeeJay Billante</div>
-      </div>
+        </div>
     );
   }
 }
